@@ -27,7 +27,7 @@ This contains the Levenshtein Distance function used by the score_corpus script.
 
 ### Results
 
-![Results](https://raw.githubusercontent.com/mmmayo13/levenshtein-lexical-similarity/master/results.gif)
+![Results](https://raw.githubusercontent.com/mmmayo13/levenshtein-lexical-similarity/master/results.png)
 
 In the case of this experiment, the Germanic languages scored a mean of means of 3.33, while the Romance languages scored a mean of means of 3.01166666667. The lower the score, the better, meaning that this result can be interpreted as the selected 4 Romance languages being more lexically similar than the 4 chosen Germanic languages.
 
